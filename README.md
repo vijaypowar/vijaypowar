@@ -23,6 +23,19 @@ A System Administrator completed various projects for major clients such as ONGC
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+918888311950&text=Olá!)](https://api.whatsapp.com/send?phone=+918888311950&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-powarvijay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/powarvijay)](https://t.me/powarvijay)
 
+### Projects
+#### Terraform 
+[**Single Tier Infrastructure**](https://github.com/) <br />A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
+<br />
+
+[**Infrastructure with two AZ**](https://github.com/) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
+<br />
+
+#### Ansible
+[**Simple User Creation**](https://github.com/) <br />A simple swift example code based on VIP architecture.
+<br />
+
+<hr/>
 
 ⭐ From [Vijay Powar](https://github.com/vijaypowar4)
 
