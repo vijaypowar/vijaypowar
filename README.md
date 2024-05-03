@@ -1,3 +1,4 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 # :man_technologist: Vijay Powar
 
 Working as a <a href="https://rhtapps.redhat.com/verify?certId=200-035-061"> <b>Linux Certified</b></a> System Administrator at <a href="https://www.cmsitservices.com/"> <b>CMS IT Services</b></a> in Mumbai. 
