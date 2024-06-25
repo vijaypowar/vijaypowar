@@ -33,8 +33,8 @@ A System Administrator completed various projects for major clients such as ONGC
 [**VPC across Multiple AZs**](https://github.com/vijaypowar/Terraform_VPC_Multiple_AZ) <br />This project deploys AWS resources, including a VPC across multiple Availability Zones (AZs), subnets, an Internet Gateway (IGW), NAT Gateways, route tables, and EC2 instances. The development (Dev) and production (Prod) environments are set up in different AZs.
 <br />
 
-### Ansible
-[**Simple User Creation**](https://github.com/) <br /> This Ansible scripts simply creates an users in multiple servers.
+### Linux Bash Scripts
+[**Useful Linux Bash Scripts**](https://github.com/vijaypowar/Linux-Shell-Scripts) <br /> This bash scripts can be used in day to day activities to automates the repeated & complex tasks.
 <br />
 
 <hr/>
