@@ -26,18 +26,17 @@ A System Administrator completed various projects for major clients such as ONGC
 [![Telegram Badge](https://img.shields.io/badge/-powarvijay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/powarvijay)](https://t.me/powarvijay)
 
 ## Projects
-### Terraform 
+### 1. Terraform 
 [**VPC in Single AZ**](https://github.com/vijaypowar/Terraform_VPC_Single_AZ) <br />This project is based on Infrastructure as Code using the HCL language. It deploys AWS resources, namely VPC, subnets, IGW, NAT GW, route tables, and EC2 instances.
 <br />
 
 [**VPC across Multiple AZs**](https://github.com/vijaypowar/Terraform_VPC_Multiple_AZ) <br />This project deploys AWS resources, including a VPC across multiple Availability Zones (AZs), subnets, an Internet Gateway (IGW), NAT Gateways, route tables, and EC2 instances. The development (Dev) and production (Prod) environments are set up in different AZs.
 <br />
 
-### Linux Bash Scripts
+### 2. Linux Bash Scripts
 [**Useful Linux Bash Scripts**](https://github.com/vijaypowar/Linux-Shell-Scripts) <br /> This bash scripts can be used in day to day activities to automates the repeated & complex tasks.
 <br />
 
-<hr/>
 
 ⭐ From [Vijay Powar](https://github.com/vijaypowar)
 
