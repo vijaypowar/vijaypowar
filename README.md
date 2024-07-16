@@ -31,10 +31,10 @@ A System Administrator completed various projects for major clients such as ONGC
 <br />
 
 ### 2. Terraform IaC
-[**VPC in single AZ**](https://github.com/vijaypowar/Terraform_VPC_Single_AZ) <br />This project is based on Infrastructure as Code using the HCL language. It deploys AWS resources, namely VPC, subnets, IGW, NAT GW, route tables, and EC2 instances.
+[**Cloud infrastructure in single AZ**](https://github.com/vijaypowar/Terraform_VPC_Single_AZ) <br />This project is based on Infrastructure as Code using the HCL language. It deploys AWS resources, namely VPC, subnets, IGW, NAT GW, route tables, and EC2 instances.
 <br />
 
-[**VPC across multiple AZs**](https://github.com/vijaypowar/Terraform_VPC_Multiple_AZ) <br />This project deploys AWS resources, including a VPC across multiple Availability Zones (AZs), subnets, an Internet Gateway (IGW), NAT Gateways, route tables, and EC2 instances. The development (Dev) and production (Prod) environments are set up in different AZs.
+[**Cloud infrastructure across multiple AZs**](https://github.com/vijaypowar/Terraform_VPC_Multiple_AZ) <br />This project deploys AWS resources, including a VPC across multiple Availability Zones (AZs), subnets, an Internet Gateway (IGW), NAT Gateways, route tables, and EC2 instances. The development (Dev) and production (Prod) environments are set up in different AZs.
 <br />
 
 ### 3. Ansible scripts
