@@ -26,17 +26,20 @@ A System Administrator completed various projects for major clients such as ONGC
 [![Telegram Badge](https://img.shields.io/badge/-powarvijay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/powarvijay)](https://t.me/powarvijay)
 
 ## Projects
-### 1. Terraform 
-[**VPC in Single AZ**](https://github.com/vijaypowar/Terraform_VPC_Single_AZ) <br />This project is based on Infrastructure as Code using the HCL language. It deploys AWS resources, namely VPC, subnets, IGW, NAT GW, route tables, and EC2 instances.
+### 1. Linux bash scripts
+[**Useful Linux bash scripts**](https://github.com/vijaypowar/Linux-Shell-Scripts) <br /> This bash scripts can be used in day to day activities to automates the repeated & complex tasks.
 <br />
 
-[**VPC across Multiple AZs**](https://github.com/vijaypowar/Terraform_VPC_Multiple_AZ) <br />This project deploys AWS resources, including a VPC across multiple Availability Zones (AZs), subnets, an Internet Gateway (IGW), NAT Gateways, route tables, and EC2 instances. The development (Dev) and production (Prod) environments are set up in different AZs.
+### 2. Terraform IaC
+[**VPC in single AZ**](https://github.com/vijaypowar/Terraform_VPC_Single_AZ) <br />This project is based on Infrastructure as Code using the HCL language. It deploys AWS resources, namely VPC, subnets, IGW, NAT GW, route tables, and EC2 instances.
 <br />
 
-### 2. Linux Bash Scripts
-[**Useful Linux Bash Scripts**](https://github.com/vijaypowar/Linux-Shell-Scripts) <br /> This bash scripts can be used in day to day activities to automates the repeated & complex tasks.
+[**VPC across multiple AZs**](https://github.com/vijaypowar/Terraform_VPC_Multiple_AZ) <br />This project deploys AWS resources, including a VPC across multiple Availability Zones (AZs), subnets, an Internet Gateway (IGW), NAT Gateways, route tables, and EC2 instances. The development (Dev) and production (Prod) environments are set up in different AZs.
 <br />
 
+### 3. Ansible scripts
+[**Ansible scripts & directory structure**](https://github.com/vijaypowar/ansible-project) <br /> This project includes ansible scripts and directory structure for huge environment of servers.
+<br />
 
 ⭐ From [Vijay Powar](https://github.com/vijaypowar)
 
